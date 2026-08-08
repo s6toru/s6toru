@@ -1,5 +1,14 @@
-## Hi there 👋
+$${\textsf{\color{#C6DBEF}𝐢 𝐛𝐥𝐨𝐜𝐤 𝐟𝐫𝐞𝐞𝐥𝐲.}}$$
 
+<img width="788" height="399" alt="Image" src="https://github.com/user-attachments/assets/dcad43b3-69ac-4871-ad87-aca2b4526ea8" />
+
+$${\textsf{\color{#DEEBF7}𝐭𝐡𝐫𝐨𝐮𝐠𝐡𝐨𝐮𝐭 𝐡𝐞𝐚𝐯𝐞𝐧 𝐚𝐧𝐝 𝐞𝐚𝐫𝐭𝐡,}}$$
+
+$${\textsf{\color{#4292C6}𝐢 𝐚𝐥𝐨𝐧𝐞 𝐚𝐦 𝐭𝐡𝐞 𝐡𝐨𝐧𝐨𝐫𝐞𝐝 𝐨𝐧𝐞.}}$$
+
+$${\textsf{\color{#2171B5}⋆⊱༻𖥸༺⊰⋆}}$$
+
+<img width="736" height="707" alt="Image" src="https://github.com/user-attachments/assets/be10076c-f603-4a93-a44b-c1b269e662e1" />
 <!--
 **s6toru/s6toru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
